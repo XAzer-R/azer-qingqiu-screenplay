@@ -12,5 +12,11 @@
   "failure_state": "FAILED",
   "auto_media_generation": false,
   "projects_root": "projects",
-  "host_e2e_verified": false
+  "host_e2e_verified": false,
+  "documentation_languages": [
+    "zh-CN",
+    "en"
+  ],
+  "method_instruction_language": "zh-CN",
+  "english_creative_e2e_verified": false
 }
