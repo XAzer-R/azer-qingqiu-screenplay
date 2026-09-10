@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "assembly_mode": "copy_selected_and_adapted",
+  "source_commit": "b771c1ec5b1348ad2b03bbbf8ceb2993abdd0c9f",
+  "source_access": "author_private_source",
+  "hooks_enabled": false,
+  "files": [
+    {
+      "path": ".claude/agents/reviewer.md",
+      "sha256": "a39d5ac7143294d9afdc4cf21abe6469738d368c708cc30ae02f67b26f80bc50"
+    },
+    {
+      "path": ".claude/agents/screenwriter.md",
+      "sha256": "0431e3e2ab4277fcfc9ad6790c82fd5f126c34a79b7d2df0e663a81a915e28bb"
+    },
+    {
+      "path": ".claude/CLAUDE.md",
+      "sha256": "f14372e773f0b9da9099b3b585f15b619998a4fae16171086686ab307cf9d58f"
+    },
+    {
+      "path": ".claude/skills/adaptation-skill/SKILL.md",
+      "sha256": "08a29db89063750de04648b3aefb5c417d0360d89f4d5c67a255ba9dc73d8b04"
+    },
+    {
+      "path": ".claude/skills/adaptation-skill/techniques/character-migration.md",
+      "sha256": "94c9ab49c5cadc678d5c1f14ef6284c3f807ef330a6b212b7c241de85c58e123"
+    },
+    {
+      "path": ".claude/skills/adaptation-skill/techniques/dramatic-extraction.md",
+      "sha256": "eccc10e6d8a68a824d7e63a237e144d75a94c258d461b1ebca9a4ebec5c91446"
+    },
+    {
+      "path": ".claude/skills/adaptation-skill/techniques/source-analysis.md",
+      "sha256": "37f610d19ef9670ae62e3b915ac16ac85a0f49fe59be8d021fa69835c15fdf64"
+    },
+    {
+      "path": ".claude/skills/adaptation-skill/techniques/structure-mapping.md",
+      "sha256": "53bb4e6672fc3a8ce5b860f101d57438c6f5dce9656fc55290816a6a20f99668"
+    },
+    {
+      "path": ".claude/skills/behavior-psychology-skill/SKILL.md",
+      "sha256": "a06194e90a4abdba5ed3bdbb17c318eb1aea75aa2d76f93f8fbe766fcfee1800"
+    },
+    {
+      "path": ".claude/skills/creative-incubation-skill/SKILL.md",
+      "sha256": "01e9c1fe7f88251840e4fdfe12b97ab06ad47b19309df9fdf14f10a82ee0690f"
+    },
+    {
+      "path": ".claude/skills/dialogue-skill/SKILL.md",
+      "sha256": "e3aea12ce3462aa086216a19196f95e8480bb4381f4f4a91eb12b55d5ba4bba9"
+    },
+    {
+      "path": ".claude/skills/director-skill/SKILL.md",
+      "sha256": "fc39a8bdc132f552fad17bf86f0a95ddba54e63e23951bcbb61571f57460041e"
+    },
+    {
+      "path": ".claude/skills/novel-digester/SKILL.md",
+      "sha256": "f219dfc754511c28e83048d3baae585df9988dc3d8582cbcf6313739f59e6892"
+    },
+    {
+      "path": ".claude/skills/schrader-style/SKILL.md",
+      "sha256": "82b34d2c7b57b489ae040e3ced7dd7c2795f5a809631f8e20517e1dfcb92ce83"
+    },
+    {
+      "path": ".claude/skills/screenplay/SKILL.md",
+      "sha256": "8adb2f4fdaf2b0273c81cec1598df32c15dea477bfe4fc94dcbc8b25bbcaf7eb"
+    },
+    {
+      "path": ".claude/skills/screenwriter-skill/format-packs/feature-film/SKILL.md",
+      "sha256": "731a8e077fa1879f4f9f906ae8bbfdb6c2132b08d154fb736d0c5297445c85e5"
+    },
+    {
+      "path": ".claude/skills/screenwriter-skill/format-packs/series-extended/SKILL.md",
+      "sha256": "290949667d6b56135ccd1f0345fb5b686400a7b201673a34b9fe8ea08f2a23f1"
+    },
+    {
+      "path": ".claude/skills/screenwriter-skill/format-packs/short-film/SKILL.md",
+      "sha256": "e934183508c4ef97c349bfaa0e9fd3b049368a7149d32deb19a6f7ecb50f3536"
+    },
+    {
+      "path": ".claude/skills/screenwriter-skill/format-packs/ultrashort/SKILL.md",
+      "sha256": "b24ed939594e21f4225870a4328d5d487f169f8649bd71ab2c602760b1dd169b"
+    },
+    {
+      "path": ".claude/skills/screenwriter-skill/references/checkpoint-system.md",
+      "sha256": "e7bb10e4a88ac7b1e5ace7a74a9265af0d6ad77331fab548c7ea6b683d440ddf"
+    },
+    {
+      "path": ".claude/skills/screenwriter-skill/references/dialogue-rules.md",
+      "sha256": "9952f1979f26007d52766835e7b9279f0535e5f976556f1e2dacfdbea1f89bf0"
+    },
+    {
+      "path": ".claude/skills/screenwriter-skill/references/hook-design.md",
+      "sha256": "1cf16324542b3b4eefdeb4ecbad7076437e077e1ba95116bb60f040637f0f31a"
+    },
+    {
+      "path": ".claude/skills/screenwriter-skill/references/scene-writing.md",
+      "sha256": "566e83cd5d7821cbe584e15a62793c6cd410bd78ec30595f327ffe5796011f26"
+    },
+    {
+      "path": ".claude/skills/screenwriter-skill/references/structure.md",
+      "sha256": "98eff839accbd304474a3627d21312bbbffd450292c5ebbfd41cabc46299dfe7"
+    },
+    {
+      "path": ".claude/skills/screenwriter-skill/SKILL.md",
+      "sha256": "122dda055d137e726a632042aa74757e21403296ecfe9d172d8944d369c200b6"
+    },
+    {
+      "path": ".claude/skills/screenwriter-skill/style-packs/serious-drama/SKILL.md",
+      "sha256": "27420acf8f4d667aa7566d58174c1cb9d284eb284ee67eb985b91cf9b2fc7037"
+    },
+    {
+      "path": ".claude/skills/songfangjin-skill/SKILL.md",
+      "sha256": "3926d9921863819e5b2bc0195751785fbe8aab9d4c62db5b9b0a8b57b73cc60b"
+    },
+    {
+      "path": ".claude/skills/structuralist-skill/SKILL.md",
+      "sha256": "dc5890bd83dc394fcb9909d5591444846344b2969df63241d7f11f5999b65cae"
+    }
+  ]
+}

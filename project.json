@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "name": "阿泽 AI剧本创作系统｜青丘织事",
+  "slug": "azer-qingqiu-screenplay",
+  "version": "0.1.0",
+  "native_host": "Claude Code",
+  "roles": [
+    "screenwriter",
+    "reviewer"
+  ],
+  "review_revision_limit": 2,
+  "failure_state": "FAILED",
+  "auto_media_generation": false,
+  "projects_root": "projects",
+  "host_e2e_verified": false
+}
